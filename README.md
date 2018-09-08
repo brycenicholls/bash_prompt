@@ -19,8 +19,3 @@ Features include:
 * Number of background jobs (including stopped jobs)
 * Number of connected tmux sessions
 * Native bash
-
-![Bash prompt example screenshot](screenshot.png)
-
-If you're a `zsh` user, there's a port of this prompt at
-https://github.com/ch3pjw/zsh_prompt
